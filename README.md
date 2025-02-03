@@ -10,7 +10,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone https://github.com/datokorgalidze/defi_stablecoin.git
-cd foundry-defi-stablecoin-cu
+cd  defi_stablecoin
 forge build
 ```
 
